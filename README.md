@@ -1,5 +1,5 @@
 # LAB_REDES
-## Semana 1: Práctica 1
+## Semana 1: Práctica 1 (29/01/2024)
 Para la direcciones -> ip address add address = 192.168.88.X/24  
 La X hay que sustituirla por 0<X<255 -> Porque la "0" y la "255" son las direcciones especiales y no son asignables  
 
@@ -12,3 +12,4 @@ Asignamos al ordenador la IP 192.168.88.0/24  (red especial):
 
 ![image](https://github.com/AdrianPaEs/LAB_REDES/assets/65620453/e5b7c61b-04fb-4d26-a917-bdd1ed3d31f7)
 
+## Semana 2: Práctica 2 (29/01/2024)
