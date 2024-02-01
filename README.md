@@ -10,6 +10,20 @@ Asignamos al ordenador la IP 192.168.88.0/24  (red especial):
 
 ### Jerarquía por comandos  
 
-![image](https://github.com/AdrianPaEs/LAB_REDES/assets/65620453/e5b7c61b-04fb-4d26-a917-bdd1ed3d31f7)
+![image](https://github.com/AdrianPaEs/LAB_REDES/assets/65620453/e5b7c61b-04fb-4d26-a917-bdd1ed3d31f7)  
+
+### Para conectarse al router  
+Usuario: admin  
+Password:  
+![image](https://github.com/AdrianPaEs/LAB_REDES/assets/65620453/d4a81442-6e28-46bf-9886-2a05303d6647)  
+
+### Para conectarse al switch
+Usuario: admin  
+Password: admin  
+![image](https://github.com/AdrianPaEs/LAB_REDES/assets/65620453/c8035a99-159d-40fd-bde5-12a0795bc7ca)  
+*screen /dev/ttyACM0 38400  
+
+
+
 
 ## Semana 2: Práctica 2 (29/01/2024)
